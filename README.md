@@ -31,13 +31,6 @@ The application employs a parallel processing workflow:
 
 ---
 
-## 📸 Screenshots
-
-### Dual-Mode Analysis Interface
-*(Place your screenshot of the running app here)*
-![App Interface](https://via.placeholder.com/800x400?text=App+Interface+Screenshot)
-
----
 
 ## 💻 Installation & Usage
 
